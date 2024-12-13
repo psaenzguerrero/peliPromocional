@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+    nav{
+        div{
+            div{
+                a{
+                    padding: 10px 20px!important;
+                    margin: 20px !important;
+                    background-color: rgb(255, 255, 79) !important;
+                    color: rgb(0, 0, 0) !important;
+                    border-radius: 10px;
+                }
+                a:hover{
+                    background-color:rgb(0, 0, 0)  !important;
+                    color: rgb(255, 255, 79) !important;
+                    border-radius: 10px;
+                }
+            }
+        }
+    }
+    
+}
+#s1{
+    background-image: url(./img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
